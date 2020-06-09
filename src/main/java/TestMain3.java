@@ -8,5 +8,11 @@ public class TestMain3 {
     }
 
     private TestMain3() {
+    	//aaaaaaaaa    	
+    	//dfaflsl.
+    }
+    
+    public static void printOut() {
+       
     }
 }
